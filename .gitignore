@@ -22,6 +22,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -32,3 +33,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+ProjectSettings/UnityConnectSettings.asset
+Assets/MailFromUnity/Scripts/mono_gmail.cs
+Assets/MailFromUnity/Scripts/mono_gmail.cs.meta
+Assets/FromOthers/Scripts/UnityThread.cs
+Assets/TabNavigation/
